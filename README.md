@@ -1,3 +1,14 @@
+In iOS 26 when you have custom thumb colors, you switch to another app, come back, then the custom colors are lost.
+
+
+
+
+https://github.com/user-attachments/assets/33e01479-e9f7-4e29-9719-e9128a2ce1b9
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
