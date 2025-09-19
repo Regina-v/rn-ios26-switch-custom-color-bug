@@ -14,7 +14,7 @@ const App = () => {
         <Text>Toggles with custom color</Text>
         <Switch
           trackColor={{ false: '#767577', true: '#81b0ff' }}
-          thumbColor={isEnabled1 ? '#ffffff' : '#292C5A'}
+          thumbColor={isEnabled1 ? '#fc1515ff' : '#292C5A'}
           ios_backgroundColor="#B4B4B4"
           onValueChange={setIsEnabled1}
           value={isEnabled1}
@@ -22,7 +22,7 @@ const App = () => {
         />
         <Switch
           trackColor={{ false: '#767577', true: '#81b0ff' }}
-          thumbColor={isEnabled2 ? '#ffffff' : '#292C5A'}
+          thumbColor={isEnabled2 ? '#fc1515ff' : '#292C5A'}
           ios_backgroundColor="#B4B4B4"
           onValueChange={setIsEnabled2}
           value={isEnabled2}
